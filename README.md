@@ -11,5 +11,5 @@ I am an engineering undergraduate from IndraPrastha University,Delhi
 🌱 I’m currently learning AWS and Rest APIs.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KapilBansal320&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilBansal320&layout=compact&hide=tsql&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkapilbansal&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkapilbansal&layout=compact&hide=tsql&show_icons=true" />
