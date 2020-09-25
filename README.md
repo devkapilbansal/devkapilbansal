@@ -12,4 +12,4 @@ I am an engineering undergraduate from IndraPrastha University,Delhi
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devkapilbansal&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilBansal320&layout=compact&hide=tsql&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkapilbansal&layout=compact&hide=tsql&show_icons=true" />
