@@ -1,8 +1,8 @@
-### Hi there, I am Kapil 👋
+### Bonjour., It's Kapil Bansal👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kapil-bansal/)
 
-I am an engineering undergraduate from IndraPrastha University,Delhi
+I am an engineering undergraduate from Guru gobind Singh IndraPrastha University,Delhi
 
 <img src="https://github.com/devkapilbansal/devkapilbansal/blob/master/banner.png">
 
