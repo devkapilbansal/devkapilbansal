@@ -1,6 +1,6 @@
 ### Bonjour., It's Kapil Bansal👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kapil-bansal/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devkapilbansal/)
 
 I am an engineering undergraduate from Guru gobind Singh IndraPrastha University,Delhi
 
